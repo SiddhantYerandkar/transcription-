@@ -38,3 +38,20 @@ Currently, this project is focused on the frontend experience, using local stora
 
    ```bash
    git clone https://github.com/SiddhantYerandkar/transcription-.git
+   ```
+   
+2. Navigate to the project directory:
+
+   ```bash
+   cd client
+   ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
