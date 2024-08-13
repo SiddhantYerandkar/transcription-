@@ -37,4 +37,4 @@ Currently, this project is focused on the frontend experience, using local stora
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/audio-transcription-app.git
+   git clone https://github.com/SiddhantYerandkar/transcription-.git
